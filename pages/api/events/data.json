@@ -1,0 +1,16 @@
+{
+    "events": [
+        {
+            "id": "1",
+            "name": "Throwback Thursdays with DJ Shimmy Disco",
+            "slug": "throwback-thursdays-with-dj-shimmy-disco",
+            "venue": "Fountainebleau",
+            "address": "4441 Collins Ave, Miami Beach, FL 33140",
+            "performers": "DJ Shimmy Disco",
+            "date": "October 08, 2022",
+            "time": "10:08 PM EST",
+            "description": "Featuring deep cuts, party anthems and remixes nostalgic songs from two of the best decades of music with the very best music from the 90's and 2000's",
+            "image": "/images/dimity-shimmyDisco.jpg"
+        }
+    ]
+}
